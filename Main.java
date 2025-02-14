@@ -65,6 +65,12 @@ public class Main {
          System.out.println();
       }
 
+      // ASCII ART
+      // CHARs use 'single quotes'
+      // char[][] asciiArt = {
+         System.out.println("The Ascii art literally will not work."); 
+      // }
+
 
    }
 }
